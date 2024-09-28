@@ -52,6 +52,12 @@ Ensure you have the following installed:
      node index.js
   2. Frontend
      ```bash
+     cd ../
+     cd frontend
+     npm install
+
+      start the server:
+     ```bash
      npm run dev
      
 ### Usage
